@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "40BFCECB-FE4C-49F2-8734-EF79A5E792BB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBCF7D2C-FDB2-4496-8985-37111107469E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCG/Presentation/View/NewsListTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBCF7D2C-FDB2-4496-8985-37111107469E - 5ebc5619bd56bc47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCG.NewsListTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BCG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/475369/Documents/Swift_sample/DemoApp/BCG/BCG/Presentation/View/NewsListTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "EBCF7D2C-FDB2-4496-8985-37111107469E - 5ebc5619bd56bc47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCG.NewsListTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BCG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/475369/Documents/Swift_sample/DemoApp/BCG/BCG/Presentation/View/NewsListTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "EBCF7D2C-FDB2-4496-8985-37111107469E - 5ebc5619bd56bddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCG.NewsListTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BCG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/475369/Documents/Swift_sample/DemoApp/BCG/BCG/Presentation/View/NewsListTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "EBCF7D2C-FDB2-4496-8985-37111107469E - 5ebc5619bd56bdba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BCG.NewsListTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BCG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/475369/Documents/Swift_sample/DemoApp/BCG/BCG/Presentation/View/NewsListTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11777A68-6C41-4E88-A39C-E547406666EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BCG/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "11777A68-6C41-4E88-A39C-E547406666EF - eed0552732959a9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BCG.NetworkService.fetchNews(completionHandler: (Swift.Array&lt;BCG.apiresponse&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/475369/Documents/Swift_sample/DemoApp/BCG/BCG/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "11777A68-6C41-4E88-A39C-E547406666EF - 36a9f49202523152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BCG.NetworkService.fetchNews(completionHandler: (Swift.Array&lt;BCG.apiresponse&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BCG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/475369/Documents/Swift_sample/DemoApp/BCG/BCG/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
